@@ -5,7 +5,13 @@ body {
 }
 
 a {
+  color: #59A5D8;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #133C55;
 }
 
 
@@ -16,6 +22,10 @@ h1 {
 h3 {
   font-size: 100%;
   line-height: 2.5;
+}
+
+header {
+  float: left;
 }
 
 p {
