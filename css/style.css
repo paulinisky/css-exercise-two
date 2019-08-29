@@ -1,36 +1,38 @@
 body {
   background-color: #FFFFFF;
   color: #000000;
-  font-size: 16 px;
+  font-size: 21px;
 }
 
 a {
-  color: #59A5D8;
+  color: #FFFFFF;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: none;
-  color: #133C55;
+  color: #000000;
 }
 
 
 h1 {
-  font-size: 300%;
+  font-size: 220%;
+  font-weight: 700;
+  line-height: 431.25%;
 }
 
 h3 {
-  font-size: 100%;
-  line-height: 2.5;
-}
-
-header {
-  float: left;
+  font-size: 120%;
+  font-style: italic;
+  line-height: 178.125%;
+  margin-bottom: 22px;
+  padding-bottom: 60px;
 }
 
 p {
   font-size: 100%;
-  line-height: 2.5;
+  line-height: 150%;
+  margin-bottom: 22px;
 }
 
 nav {
